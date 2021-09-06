@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_crwn-clothing/static/css/main.7e9f0c93.chunk.css",
+    "main.js": "/React_crwn-clothing/static/js/main.cb081b0a.chunk.js",
+    "main.js.map": "/React_crwn-clothing/static/js/main.cb081b0a.chunk.js.map",
+    "runtime-main.js": "/React_crwn-clothing/static/js/runtime-main.1f97596c.js",
+    "runtime-main.js.map": "/React_crwn-clothing/static/js/runtime-main.1f97596c.js.map",
+    "static/js/2.faabd641.chunk.js": "/React_crwn-clothing/static/js/2.faabd641.chunk.js",
+    "static/js/2.faabd641.chunk.js.map": "/React_crwn-clothing/static/js/2.faabd641.chunk.js.map",
+    "index.html": "/React_crwn-clothing/index.html",
+    "static/css/main.7e9f0c93.chunk.css.map": "/React_crwn-clothing/static/css/main.7e9f0c93.chunk.css.map",
+    "static/js/2.faabd641.chunk.js.LICENSE.txt": "/React_crwn-clothing/static/js/2.faabd641.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f97596c.js",
+    "static/js/2.faabd641.chunk.js",
+    "static/css/main.7e9f0c93.chunk.css",
+    "static/js/main.cb081b0a.chunk.js"
+  ]
+}
