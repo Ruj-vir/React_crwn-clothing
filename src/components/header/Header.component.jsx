@@ -7,7 +7,8 @@ const Header = () => {
   return (
     <div className="header">
       <Link to="/React_crwn-clothing/">
-        <Logo className="logo" />
+        <Logo className="logo"></Logo>
+        <p>HOME</p>
       </Link>
       <div className="options">
         <Link className="option" to="/React_crwn-clothing/shop">
