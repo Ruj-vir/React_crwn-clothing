@@ -15,8 +15,8 @@ function App() {
   return (
     <div>
       <Switch>
-        <Route exact path="/" component={HomePage} />
-        <Route path="/hats" component={HatPage} />
+        <Route exact path="/React_crwn-clothing/" component={HomePage} />
+        <Route path="/React_crwn-clothing/hats" component={HatPage} />
       </Switch>
     </div>
   );
