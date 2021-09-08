@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_crwn-clothing/static/css/main.13f64b35.chunk.css",
-    "main.js": "/React_crwn-clothing/static/js/main.fea24e19.chunk.js",
-    "main.js.map": "/React_crwn-clothing/static/js/main.fea24e19.chunk.js.map",
+    "main.js": "/React_crwn-clothing/static/js/main.4cc0b37d.chunk.js",
+    "main.js.map": "/React_crwn-clothing/static/js/main.4cc0b37d.chunk.js.map",
     "runtime-main.js": "/React_crwn-clothing/static/js/runtime-main.1f97596c.js",
     "runtime-main.js.map": "/React_crwn-clothing/static/js/runtime-main.1f97596c.js.map",
     "static/js/2.213f292e.chunk.js": "/React_crwn-clothing/static/js/2.213f292e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1f97596c.js",
     "static/js/2.213f292e.chunk.js",
     "static/css/main.13f64b35.chunk.css",
-    "static/js/main.fea24e19.chunk.js"
+    "static/js/main.4cc0b37d.chunk.js"
   ]
 }
